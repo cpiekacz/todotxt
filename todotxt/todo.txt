@@ -1,0 +1,4 @@
+(A) @work p:project_3 task 1
+(B) @home p:project_2 task 2
+(C) p:project_1 task 3
+@work task 4

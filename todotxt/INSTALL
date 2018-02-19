@@ -1,0 +1,26 @@
+TODO.TXT Web Manager
+version 0.1
+
+Author:       Cezary Piekacz :: Cezex
+Contact:      cezex@redfish.org.pl
+
+Release date: 2006-08-25
+Last update:  2006-08-25
+License:      GPL, http://www.gnu.org/copyleft/gpl.html
+
+For more information visit: http://redfish.pl/programy/todotxt
+
+========================================================
+
+HOW TO INSTALL
+
+1. extract files from todotxt.zip package to destination
+   directory
+
+2. change permitions to todo.txt to 0666
+   (for example: chmod 0666 todo.txt)
+
+3. make sure you have PHP installed on your server
+
+4. enter http://web.address.com/todotxt in your web
+   browser
